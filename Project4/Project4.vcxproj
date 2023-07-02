@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="clanguage.c" />
     <ClCompile Include="clanguage2.c" />
+    <ClCompile Include="clanguage3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
